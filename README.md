@@ -1,6 +1,6 @@
 #C omandos básicos do projeto
 
-## criar anbiente
+## criar ambiente
 python3 -m venv venv
 
 ## ativar ambiente Linux MacOs
